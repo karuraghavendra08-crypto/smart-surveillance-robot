@@ -121,9 +121,8 @@ git commit -m "Initial commit: ESP32-CAM robot concise code and documentation"
 Replace `<REPO_URL>` with your copied GitHub repository URL:
 
 ```bash
-git remote add origin <REPO_URL>
+git remote add origin https://github.com/karuraghavendra08-crypto/smart-surveillance-robot.git
 ```
-*(Example: `git remote add origin https://github.com/YourUsername/esp32-cam-robot.git`)*
 
 ---
 
